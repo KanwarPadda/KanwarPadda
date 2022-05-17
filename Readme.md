@@ -1,4 +1,3 @@
-![Kanwartejbir Padda's github stats]https://github-readme-stats-anuraghazra1.vercel.app/api?username=KanwarPadda&show_icons=true&hide_border=true
 # Hi there 👋🏼
 
 ## I'm Kanwar Padda
@@ -20,3 +19,4 @@ Apart from `Coding`, you can talk with me about _**airplanes**_:airplane:, _**nb
 [//]: # (### 📚 Learning ...)
 
 [//]: # (I've started learning the `Rust` programming language and `Web Assembly` paraphernalia. Lately, I've been inquisitive about architecture of software and systems. I'm reading a book titled _"Linux Kernel Development"_ by _Robert Love_. I want to dive into embedded systems programming soon.)
+![Kanwartejbir Padda's github stats](https://github-readme-stats-anuraghazra1.vercel.app/api?username=KanwarPadda&show_icons=true&hide_border=true)
